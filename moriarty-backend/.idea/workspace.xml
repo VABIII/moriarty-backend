@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="721de98b-68ef-4a46-b7ad-8d028f58d339" name="Changes" comment="created project and package.json file">
-      <change afterPath="$PROJECT_DIR$/api/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/migrations/20220912220748_books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +33,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Edxa2oxPUBpN5Dz8N4BSYsVWSN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -52,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662939322959</updated>
-      <workItem from="1662939324397" duration="2553000" />
+      <workItem from="1662939324397" duration="2590000" />
+      <workItem from="1663019665801" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="created project and package.json file">
       <created>1662939400909</created>
@@ -93,6 +103,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="created project and package.json file" />
     <option name="LAST_COMMIT_MESSAGE" value="created project and package.json file" />
   </component>
