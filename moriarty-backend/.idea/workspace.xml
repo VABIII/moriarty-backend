@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="721de98b-68ef-4a46-b7ad-8d028f58d339" name="Changes" comment="created project and package.json file">
-      <change afterPath="$PROJECT_DIR$/data/db-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/migrations/20220912220748_books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/users/users-model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/users/users-router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/migrations/20220912220748_books.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/migrations/20220912220748_books.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,16 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="users-model.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/users/users-model.js" working-dir="$PROJECT_DIR$/api/users">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.users-model.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662939322959</updated>
       <workItem from="1662939324397" duration="2590000" />
-      <workItem from="1663019665801" duration="2166000" />
+      <workItem from="1663019665801" duration="5197000" />
     </task>
     <task id="LOCAL-00001" summary="created project and package.json file">
       <created>1662939400909</created>
